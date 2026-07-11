@@ -1,21 +1,20 @@
 # Student Management System (Go)
 
-This project is an original implementation of a Student Management System written in Go.
+A command-line Student Management System built in Go.
 
 ## Features
 
 - Password Authentication
 - Admin Menu
-- Student View
+- Student Menu
 - Add Student
+- View Students
 - Delete Student
-- CSV Storage
+- CSV-based Data Storage
 
 ## Tech Stack
 
 - Go
-- CSV File Storage
+- CSV File Handling
 
-## Learning Goal
-
-Built while learning Go and preparing for software migration hackathons.
+## Project Structure
